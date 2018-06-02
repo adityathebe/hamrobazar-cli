@@ -16,7 +16,7 @@ hamro -o popular
 
 3. Search Items
 ```bash
-hamro -o "Dell XPS"
+hamro -o search -i "Dell XPS"
 ```
 
 ## Screenshot
