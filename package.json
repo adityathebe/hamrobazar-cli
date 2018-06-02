@@ -1,0 +1,20 @@
+{
+  "name": "hamrobazar",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hamrobazar": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Thebe <me@adityathebe.com> (http://adityathebe.com)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cli-table": "^0.3.1",
+    "request": "^2.81.0",
+    "yargs": "^9.0.1"
+  }
+}
